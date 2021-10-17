@@ -1,6 +1,6 @@
 # flutter_navigator2
 
-A new Flutter project.
+![alt text](https://raw.githubusercontent.com/iEmDevX/flutter-navigator-2.0/main/preview.png)
 
 ## Getting Started
 
